@@ -1,0 +1,7 @@
+//microsoft visual studio code - installation 
+// extention -live server extention
+// install git 
+// git init //installationof git repo
+// git add . or git add filename.extention
+// git commit -m " message"
+// git restore --staged script.js
