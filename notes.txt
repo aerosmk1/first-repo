@@ -6,3 +6,4 @@
 // git commit -m " message"
 // git restore --staged script.js
 // wrongly nut the extention
+//now we creat the git hub by connecting to local repo 
